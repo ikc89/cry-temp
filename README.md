@@ -10,6 +10,8 @@ Symbol: SNT
 
 ``openzeppelin-solidity v2.1.2``
 
+``node v10.16.0``
+
 ## My Token Address On Rinkeby Network
 
     c963a21eb4d6445bbac51a143477b898
