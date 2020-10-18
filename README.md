@@ -14,5 +14,5 @@ Symbol: SNT
 
 ## My Token Address On Rinkeby Network
 
-    c963a21eb4d6445bbac51a143477b898
+    0x49fb915e77b30E521B1B1Fb7562bfeB212B23461
 
